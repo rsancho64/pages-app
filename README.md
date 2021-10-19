@@ -1,4 +1,4 @@
-# receta capitulo 3
+# receta capitulo 3 (pages)
 
 • create a new directory for our code && go into
 `mkdir pages`
